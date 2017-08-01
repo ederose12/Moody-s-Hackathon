@@ -1,0 +1,21 @@
+body{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+.jumbotron{
+    background: #FC8FBE;
+    height:250px;
+}
+.jumbotron img{
+    width:30%;
+    float:left;
+    max-height:140px;
+}
+#add-btn{
+color: pink;
+background: purple;
+}
+function OnClickadd
+<button OnClickadd="addButtonEvent()"/button>
+window.alert("Hello")
